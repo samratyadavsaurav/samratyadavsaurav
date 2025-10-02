@@ -17,7 +17,8 @@
 
 - 📫 How to reach me **https://sauravkumar-dev.netlify.app**
 
-- 📄 Know about my experiences [- 🌱 Currently learning and building projects with **MERN Stack** - 🏗️ Developed real-world projects such as **Online Grocery Store** and **Portfolio Website**
+- 📄 **Know about my experiences**
+- 🌱 Currently learning and building projects with **MERN Stack** - 🏗️ Developed real-world projects such as **Online Grocery Store** and **Portfolio Website**
 - 🤝 Collaborated with teammates in **Hackathons & Group Projects**
 - 🔍 Experienced in working with **Databases (MongoDB), APIs, and Authentication Systems**
 - 📖 Academic focus: **Class 12 Physics, Chemistry, and Computer Science** along with **Java Programming**]
