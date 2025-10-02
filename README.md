@@ -66,15 +66,27 @@
 
 <div align="center">
 
-<!-- Stats row (auto wrap on small screen) -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=samratyadavsaurav&show_icons=true&theme=transparent&hide_border=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samratyadavsaurav&theme=transparent&hide_border=true" height="160px"/>
-</p>
+<!-- 🌞 Light Mode -->
+<div align="center" id="gh-light-mode-only">
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samratyadavsaurav&layout=compact&theme=transparent&hide_border=true" height="160px"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=samratyadavsaurav&show_icons=true&count_private=true&hide_border=true&theme=default&bg_color=ffffff&title_color=333&text_color=333&icon_color=007acc" height="180px" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samratyadavsaurav&theme=default&hide_border=true&background=ffffff&stroke=333&ring=007acc&fire=ff5722&currStreakNum=333&sideNums=333&currStreakLabel=007acc&sideLabels=333&dates=555" height="180px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samratyadavsaurav&layout=compact&hide_border=true&theme=default&bg_color=ffffff&title_color=333&text_color=333" height="180px" />
+
+</div>
+
+<!-- 🌙 Dark Mode -->
+<div align="center" id="gh-dark-mode-only">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=samratyadavsaurav&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ffd700" height="180px" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samratyadavsaurav&theme=radical&hide_border=true&background=30,e96443,904e95&stroke=ffffff&ring=ffd700&fire=ff4500&currStreakNum=fff&sideNums=fff&currStreakLabel=ffd700&sideLabels=fff&dates=fff" height="180px" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samratyadavsaurav&layout=compact&hide_border=true&theme=radical&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" height="180px" />
+
+</div>
 
 </div>
 
@@ -100,4 +112,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:4CAF50&height=120&section=footer" />
 </p>
-
