@@ -1,42 +1,103 @@
-<h1 align="center">Hi 👋, I'm Saurav Kumar</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-
-<img align="right" alt="coding" width="400" src ="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samratyadavsaurav&label=Profile%20views&color=0e75b6&style=flat" alt="samratyadavsaurav" /> </p>
-
-- 🔭 I’m currently working on ****MERN Stack Projects****
-
-- 🌱 I’m currently learning ****React, Node.js, Express, MongoDB****
-
-- 🤝 I’m looking for help with ****MERN Stack Projects (MongoDB, Express, React, Node.js)****
-
-- 👨‍💻 All of my projects are available at [https://github.com/samratyadavsaurav/](https://github.com/samratyadavsaurav/)
-
-- 💬 Ask me about ****JavaScript, Web Development, and Full Stack Projects****
-
-- 📫 How to reach me **https://sauravkumar-dev.netlify.app**
-
-- 📄 **Know about my experiences**
-- 🌱 Currently learning and building projects with **MERN Stack** - 🏗️ Developed real-world projects such as **Online Grocery Store** and **Portfolio Website**
-- 🤝 Collaborated with teammates in **Hackathons & Group Projects**
-- 🔍 Experienced in working with **Databases (MongoDB), APIs, and Authentication Systems**
-- 📖 Academic focus: **Class 12 Physics, Chemistry, and Mathematics**]
-
-- ⚡ Fun fact **I debug faster at midnight 😆**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saurav kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurav kumar" height="30" width="40" /></a>
-<a href="https://fb.com/saurav yaduvanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saurav yaduvanshi" height="30" width="40" /></a>
-<a href="https://instagram.com/sauravyaduvanshi889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sauravyaduvanshi889" height="30" width="40" /></a>
+<!-- 🌟 Custom Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=220&section=header&text=Saurav%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="banner"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<!-- Profile Intro -->
+<h1 align="center">Hi 👋, I'm <span style="color:#4CAF50;">Saurav Kumar</span></h1>
+<h3 align="center">🚀 Passionate Software Engineer | MERN Stack Developer | Problem Solver</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samratyadavsaurav&show_icons=true&locale=en&layout=compact" alt="samratyadavsaurav" /></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="coding" width="60%" style="max-width:300px; border-radius:12px;">
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samratyadavsaurav&show_icons=true&locale=en" alt="samratyadavsaurav" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samratyadavsaurav&" alt="samratyadavsaurav" /></p>
+<!-- Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samratyadavsaurav&label=Profile%20views&color=blue&style=flat" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/samratyadavsaurav?label=Followers&style=social" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/samratyadavsaurav?label=Stars&style=social" alt="stars"/>
+</p>
+
+---
+
+## 🧑‍💻 About Me  
+
+- 🔭 Currently working on **MERN Stack Projects**  
+- 🌱 Learning **React, Node.js, Express, MongoDB**  
+- 🤝 Open to collaboration on **Full Stack Projects**  
+- 👨‍💻 Explore my work: [GitHub Repos](https://github.com/samratyadavsaurav/)  
+- 💬 Ask me about **JavaScript, Web Development, Full Stack Projects**  
+- 📫 Reach me: [Portfolio](https://sauravkumar-dev.netlify.app)  
+- ⚡ Fun fact: *I debug faster at midnight 😆*  
+
+---
+
+## 📄 My Experiences  
+
+- 🌱 Building with **MERN Stack**  
+- 🏗 Real-world projects: **Online Grocery Store, Portfolio Website**  
+- 🤝 Collaborated in **Hackathons & Group Projects**  
+- 🔍 Skilled in **Databases (MongoDB), APIs, Authentication Systems**  
+- 📖 Academics: **Class 12 PCM + Java Programming**  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/saurav kumar"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://fb.com/saurav yaduvanshi"><img src="https://skillicons.dev/icons?i=facebook" width="40"/></a>
+  <a href="https://instagram.com/sauravyaduvanshi889"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,c,cpp,git,github,vscode&perline=7" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+
+<!-- Stats row (auto wrap on small screen) -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=samratyadavsaurav&show_icons=true&theme=transparent&hide_border=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samratyadavsaurav&theme=transparent&hide_border=true" height="160px"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samratyadavsaurav&layout=compact&theme=transparent&hide_border=true" height="160px"/>
+</p>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/samratyadavsaurav/samratyadavsaurav/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🎯 Fun Quote  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+---
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:4CAF50&height=120&section=footer" />
+</p>
+
