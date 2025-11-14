@@ -44,9 +44,15 @@ I debug faster at midnight 😆
 
 ### 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/saurav-kumar-9760a42ab" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" /></a>
-  <a href="https://www.facebook.com/saurav.yaduvanshi.3979" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40" /></a>
- <a href="https://www.instagram.com/sauravyaduvanshi889" target="_blank">
+  <a href="https://www.linkedin.com/in/saurav-kumar-9760a42ab" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+</a>
+
+<a href="https://www.facebook.com/saurav.yaduvanshi.3979" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40" />
+</a>
+
+<a href="https://www.instagram.com/sauravyaduvanshi889" target="_blank" rel="noopener noreferrer">
   <img 
     src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" 
     alt="Instagram" 
@@ -54,6 +60,7 @@ I debug faster at midnight 😆
     height="40"
   />
 </a>
+
 
 </p>
 
