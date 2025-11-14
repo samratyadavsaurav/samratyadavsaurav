@@ -44,9 +44,9 @@ I debug faster at midnight 😆
 
 ### 🔗 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/saurav-kumar" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" /></a>
-  <a href="https://facebook.com/saurav-yaduvanshi" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40" /></a>
-  <a href="https://instagram.com/sauravyaduvanshi889" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40" /></a>
+  <a href="https://www.linkedin.com/in/saurav-kumar-9760a42ab" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" /></a>
+  <a href="https://www.facebook.com/saurav.yaduvanshi.3979" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40" /></a>
+  <a href="https://www.instagram.com/sauravyaduvanshi889?igsh=dDY1cDJwc2dmdnRh" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40" /></a>
 </p>
 
 ---
